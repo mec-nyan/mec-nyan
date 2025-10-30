@@ -1,3 +1,7 @@
+> [!Note]
+> I'm moving my stuff to GitLab!
+> Expect very few changes here until that's done. Then maybe I'll keep a clone here (maybe not haha)
+
 # 👋 Hi, I'm mec-nyan!
 
 I've been programming professionally since 2021. I did a little bit of full-stack development at first and for the last two years I've been providing backend solutions in Go.
@@ -12,9 +16,6 @@ I've been programming professionally since 2021. I did a little bit of full-stac
 - 🌸 Learning Japanese, hope to travel one day.
 
 
-## ✉  Contact
-
-`TODO`
 
 \> ω <
 
