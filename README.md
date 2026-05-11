@@ -1,14 +1,5 @@
-```sh
+![hello_world_retro_term](./assets/banner.gif)
 
-., .,     .m,  .m,                                .m,     .,  m  
-][ ][     'T[  'T[                                'T[     ][  W  
-][ ][ dWb  ][   ][   dWb           W   W dWb  WdW[ ][   dWd[  W  
-]WWW[]bmd[ ][   ][  ]P T[          T W P]P T[ W`   ][  ]P T[  W  
-][ ][]P""` ][   ][  ][ ][          ]bWd[][ ][ W    ][  ][ ][  "  
-][ ]['Wmm[ ]bm  ]bm 'WmW`  W       'W W`'WmW` W    ]bm 'WmW[  m  
-'` '` '""   ""   ""  '"`   W        " "  '"`  "     ""  '"'`  "  
-                          '`
-```
 
 ## $ whoami
 
@@ -61,6 +52,7 @@ Everything I build is open source. Check the repos below 😉
 
 \> ω <
 
+\* "Hello, world!" banner created with [CRT cool-retro-term](https://github.com/Swordfish90/cool-retro-term).
 ---
 
 
