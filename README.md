@@ -52,7 +52,8 @@ Everything I build is open source. Check the repos below 😉
 
 \> ω <
 
-\* "Hello, world!" banner created with [CRT cool-retro-term](https://github.com/Swordfish90/cool-retro-term).
+<small>"Hello, world!" banner created with <a href="https://github.com/Swordfish90/cool-retro-term">CRT cool-retro-term</a>.</small>
+
 ---
 
 
